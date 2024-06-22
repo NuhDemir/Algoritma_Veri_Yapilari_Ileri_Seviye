@@ -1,5 +1,5 @@
 
-<img src="[Algoritma_Veri_Yapilari_Ileri_Seviye/blob/main/img/algoritmaAnalizi.jpg](https://raw.githubusercontent.com/NuhDemir/Algoritma_Veri_Yapilari_Ileri_Seviye/main/img/algoritmaAnalizi.jpg)" width="640" height="360">
+<img src="https://raw.githubusercontent.com/NuhDemir/Algoritma_Veri_Yapilari_Ileri_Seviye/main/img/algoritmaAnalizi.jpg" width="640" height="360">
 
 ## Algoritma Analizi Nedir?
 
