@@ -1,0 +1,7 @@
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\DataOrganization_2\DataOrganization_2\bin\Debug\DataOrganization_2.exe.config
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\DataOrganization_2\DataOrganization_2\bin\Debug\DataOrganization_2.exe
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\DataOrganization_2\DataOrganization_2\bin\Debug\DataOrganization_2.pdb
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\DataOrganization_2\DataOrganization_2\obj\Debug\DataOrganization_2.csproj.AssemblyReference.cache
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\DataOrganization_2\DataOrganization_2\obj\Debug\DataOrganization_2.csproj.CoreCompileInputs.cache
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\DataOrganization_2\DataOrganization_2\obj\Debug\DataOrganization_2.exe
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\DataOrganization_2\DataOrganization_2\obj\Debug\DataOrganization_2.pdb
