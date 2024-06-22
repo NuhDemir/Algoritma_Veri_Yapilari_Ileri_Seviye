@@ -1,0 +1,7 @@
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\2-Algoritma Analizi ve Asimptotik Notasyonlar\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe.config
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\2-Algoritma Analizi ve Asimptotik Notasyonlar\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\2-Algoritma Analizi ve Asimptotik Notasyonlar\InsertionSort\InsertionSort\bin\Debug\InsertionSort.pdb
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\2-Algoritma Analizi ve Asimptotik Notasyonlar\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csproj.AssemblyReference.cache
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\2-Algoritma Analizi ve Asimptotik Notasyonlar\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\2-Algoritma Analizi ve Asimptotik Notasyonlar\InsertionSort\InsertionSort\obj\Debug\InsertionSort.exe
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\2-Algoritma Analizi ve Asimptotik Notasyonlar\InsertionSort\InsertionSort\obj\Debug\InsertionSort.pdb
