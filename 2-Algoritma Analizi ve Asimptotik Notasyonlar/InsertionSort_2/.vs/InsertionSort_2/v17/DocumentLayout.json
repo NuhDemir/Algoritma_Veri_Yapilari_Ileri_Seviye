@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\2-Algoritma Analizi ve Asimptotik Notasyonlar\\InsertionSort_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D1BF62-047C-409B-9315-CC591C02BCF9}|InsertionSort_2\\InsertionSort_2.csproj|c:\\users\\evan\\desktop\\github\\5-c#\\algoritma_veri_yapilari_ileri_seviye\\2-algoritma analizi ve asimptotik notasyonlar\\insertionsort_2\\insertionsort_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D1BF62-047C-409B-9315-CC591C02BCF9}|InsertionSort_2\\InsertionSort_2.csproj|solutionrelative:insertionsort_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\2-Algoritma Analizi ve Asimptotik Notasyonlar\\InsertionSort_2\\InsertionSort_2\\Program.cs",
+              "RelativeDocumentMoniker": "InsertionSort_2\\Program.cs",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\2-Algoritma Analizi ve Asimptotik Notasyonlar\\InsertionSort_2\\InsertionSort_2\\Program.cs",
+              "RelativeToolTip": "InsertionSort_2\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:42:20.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
