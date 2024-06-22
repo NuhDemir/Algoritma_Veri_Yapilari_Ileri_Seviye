@@ -1,3 +1,6 @@
+
+<img src="https://raw.githubusercontent.com/NuhDemir/Algoritma_Veri_Yapilari_Ileri_Seviye/main/img/Firefly%20algorithm%20and%20data%20type%20code%3B%20darkness%20background%20with%20binary%20codes%2027831.jpg" alt="alt text" width="320" height="180">
+
 ## Algoritma ve Veri Yapıları Eğitim Notları
 
 Bu markdown dosyası, **Algoritma ve Veri Yapıları** hakkında hazırladığım çalışmamın içeriğini özetlemektedir. Çalışma, bilgisayar bilimlerinde temel bir ders olup, programlamada verimli ve etkili veri yönetimi ve işlemleri için gerekli olan kavramları ele almaktadır.
