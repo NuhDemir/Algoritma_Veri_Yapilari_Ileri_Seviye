@@ -3,7 +3,7 @@
 Büyük O notasyonu, bir algoritmanın **karmaşıklığı**nı veya **zaman karmaşıklığı**nı ifade etmek için kullanılan matematiksel bir gösterimdir. Basitçe söylemek gerekirse, bir algoritmanın ne kadar **hızlı** veya **yavaş** olduğunu gösterir.
 
 Büyük O notasyonu, algoritmanın **giriş boyutu** arttıkça ne kadar **işlem** yapacağını gösterir. Bu, bir algoritmanın **verimliliği**ni değerlendirmek için çok önemlidir, özellikle de büyük veri kümeleriyle çalışırken.
-
+<img src ="https://raw.githubusercontent.com/NuhDemir/Algoritma_Veri_Yapilari_Ileri_Seviye/main/img/BigO.png" width ="640px" height="360px">
 **Örnekler:**
 
 **O(1):**
