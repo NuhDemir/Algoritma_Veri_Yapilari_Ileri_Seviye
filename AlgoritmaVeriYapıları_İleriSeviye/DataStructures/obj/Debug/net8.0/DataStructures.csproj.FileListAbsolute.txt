@@ -1,0 +1,12 @@
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\AlgoritmaVeriYapıları_İleriSeviye\DataStructures\bin\Debug\net8.0\DataStructures.deps.json
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\AlgoritmaVeriYapıları_İleriSeviye\DataStructures\bin\Debug\net8.0\DataStructures.dll
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\AlgoritmaVeriYapıları_İleriSeviye\DataStructures\bin\Debug\net8.0\DataStructures.pdb
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\AlgoritmaVeriYapıları_İleriSeviye\DataStructures\obj\Debug\net8.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\AlgoritmaVeriYapıları_İleriSeviye\DataStructures\obj\Debug\net8.0\DataStructures.AssemblyInfoInputs.cache
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\AlgoritmaVeriYapıları_İleriSeviye\DataStructures\obj\Debug\net8.0\DataStructures.AssemblyInfo.cs
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\AlgoritmaVeriYapıları_İleriSeviye\DataStructures\obj\Debug\net8.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\AlgoritmaVeriYapıları_İleriSeviye\DataStructures\obj\Debug\net8.0\DataStructures.sourcelink.json
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\AlgoritmaVeriYapıları_İleriSeviye\DataStructures\obj\Debug\net8.0\DataStructures.dll
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\AlgoritmaVeriYapıları_İleriSeviye\DataStructures\obj\Debug\net8.0\refint\DataStructures.dll
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\AlgoritmaVeriYapıları_İleriSeviye\DataStructures\obj\Debug\net8.0\DataStructures.pdb
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\AlgoritmaVeriYapıları_İleriSeviye\DataStructures\obj\Debug\net8.0\ref\DataStructures.dll
