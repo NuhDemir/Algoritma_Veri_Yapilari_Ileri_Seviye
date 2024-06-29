@@ -32,7 +32,10 @@ namespace Apps
             //arrInt.GetValue(1);
             #endregion
 
-
+            var arr = new DataStructures.Arrays.Array<int>();
+            arr.Add(123);
+            arr.Add(55);
+            Console.WriteLine($"{arr.Count} / {arr.Capacity}");
             Console.ReadKey();
         }
     }

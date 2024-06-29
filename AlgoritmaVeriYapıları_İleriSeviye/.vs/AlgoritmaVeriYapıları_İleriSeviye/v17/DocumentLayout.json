@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{FDDA8D4D-21EF-4F43-B7A5-FE63C39B90C2}|Apps\\Apps.csproj|solutionrelative:apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFF08AD1-DA94-4B1B-B46C-369E50ED4E37}|DataStructures\\DataStructures.csproj|c:\\users\\evan\\desktop\\github\\5-c#\\algoritma_veri_yapilari_ileri_seviye\\algoritmaveriyap\u0131lar\u0131_\u0130leriseviye\\datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFF08AD1-DA94-4B1B-B46C-369E50ED4E37}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFF08AD1-DA94-4B1B-B46C-369E50ED4E37}|DataStructures\\DataStructures.csproj|c:\\users\\evan\\desktop\\github\\5-c#\\algoritma_veri_yapilari_ileri_seviye\\algoritmaveriyap\u0131lar\u0131_\u0130leriseviye\\datastructures\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFF08AD1-DA94-4B1B-B46C-369E50ED4E37}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFF08AD1-DA94-4B1B-B46C-369E50ED4E37}|DataStructures\\DataStructures.csproj|c:\\users\\evan\\desktop\\github\\5-c#\\algoritma_veri_yapilari_ileri_seviye\\algoritmaveriyap\u0131lar\u0131_\u0130leriseviye\\datastructures\\arrays\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF08AD1-DA94-4B1B-B46C-369E50ED4E37}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\arrays\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,27 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\AlgoritmaVeriYap\u0131lar\u0131_\u0130leriSeviye\\DataStructures\\Program.cs",
-              "RelativeDocumentMoniker": "DataStructures\\Program.cs",
-              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\AlgoritmaVeriYap\u0131lar\u0131_\u0130leriSeviye\\DataStructures\\Program.cs",
-              "RelativeToolTip": "DataStructures\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Title": "Array.cs",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\AlgoritmaVeriYap\u0131lar\u0131_\u0130leriSeviye\\DataStructures\\Arrays\\Array.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Arrays\\Array.cs",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\AlgoritmaVeriYap\u0131lar\u0131_\u0130leriSeviye\\DataStructures\\Arrays\\Array.cs",
+              "RelativeToolTip": "DataStructures\\Arrays\\Array.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T14:07:49.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\AlgoritmaVeriYap\u0131lar\u0131_\u0130leriSeviye\\DataStructures\\Class1.cs",
-              "RelativeDocumentMoniker": "DataStructures\\Class1.cs",
-              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\AlgoritmaVeriYap\u0131lar\u0131_\u0130leriSeviye\\DataStructures\\Class1.cs",
-              "RelativeToolTip": "DataStructures\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T13:39:22.398Z",
+              "WhenOpened": "2024-06-29T10:35:24.52Z",
               "EditorCaption": ""
             },
             {
@@ -62,7 +45,7 @@
               "RelativeDocumentMoniker": "Apps\\Program.cs",
               "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\AlgoritmaVeriYap\u0131lar\u0131_\u0130leriSeviye\\Apps\\Program.cs",
               "RelativeToolTip": "Apps\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAwwCEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T13:37:39.816Z",
               "EditorCaption": ""
