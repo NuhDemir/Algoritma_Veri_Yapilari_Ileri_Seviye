@@ -32,27 +32,45 @@ namespace Apps
             //arrInt.GetValue(1);
             #endregion
 
-            var arr = new DataStructures.Arrays.Array<int>();
-            arr.Add(123);
-            arr.Add(55);
-            arr.Add(22);
-            arr.Add(321);
-            arr.Add(43);
+            var p1 = new DataStructures.Arrays.Array<int>(1, 2, 3, 4);
+            var p2 = new int[] { 8, 9, 10, 11 };
+            var p3 = new List<int>() { 5, 15, 20, 25 };
+            var p4 = new ArrayList() { 12, 13, 14, 15 };
 
-            arr.Add(1);
-            arr.Remove();
-            foreach (var item in arr)
+
+
+            var arr = new DataStructures
+                .Arrays
+                .Array<int>(p1);
+
+            foreach (int i in arr)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(i);
             }
-            arr.Where(x=>x%2==0)
-              .ToList()
-              .ForEach(x => Console.WriteLine(x));
 
 
-              Console.WriteLine($"{arr.Count} / {arr.Capacity}");
+            //Ekleme-Arama-Silme
+            #region
+            //arr.Add(123);
+            //arr.Add(55);
+            //arr.Add(22);
+            //arr.Add(321);
+            //arr.Add(43);
+
+            //arr.Add(1);
+            //arr.Remove();
+            //foreach (var item in arr)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            //arr.Where(x=>x%2==0)
+            //  .ToList()
+            //  .ForEach(x => Console.WriteLine(x));
+
+
+            //  Console.WriteLine($"{arr.Count} / {arr.Capacity}");
+            #endregion 
             Console.ReadKey();
         }
     }
 }
- 

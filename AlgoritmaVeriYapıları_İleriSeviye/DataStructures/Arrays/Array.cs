@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace DataStructures.Arrays
 {
@@ -20,6 +21,28 @@ namespace DataStructures.Arrays
             InnerList = new T[2];
             Count = 0;
         }
+
+        public Array(params T[] initial)
+        {
+            InnerList = new T[initial.Length];
+            Count = 0;
+            foreach (var item in initial)
+            {
+                Add(item);
+            }
+        }
+
+        public Array(IEnumerable<T> collection)
+        {
+            InnerList = new T[collection.ToArray().Length];
+            Count = 0;
+            foreach (var item in collection)
+            {
+                Add(item);
+            }
+        }
+
+
         public void Add(T item)
         {
             if (InnerList.Length == Count)
@@ -51,8 +74,8 @@ namespace DataStructures.Arrays
             }
 
             var temp = InnerList[Count - 1];
-            if (Count>0)
-            Count--;
+            if (Count > 0)
+                Count--;
             return temp;
 
 
@@ -83,7 +106,7 @@ namespace DataStructures.Arrays
 
         IEnumerator IEnumerable.GetEnumerator()
         {
-          return GetEnumerator();
+            return GetEnumerator();
         }
     }
 }
