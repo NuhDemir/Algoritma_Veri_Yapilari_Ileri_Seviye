@@ -32,16 +32,30 @@ namespace Apps
             //arrInt.GetValue(1);
             #endregion
 
-            var p1 = new DataStructures.Arrays.Array<int>(1, 2, 3, 4);
-            var p2 = new int[] { 8, 9, 10, 11 };
-            var p3 = new List<int>() { 5, 15, 20, 25 };
-            var p4 = new ArrayList() { 12, 13, 14, 15 };
+            //var p1 = new DataStructures.Arrays.Array<int>(1, 2, 3, 4);
+            //var p2 = new int[] { 8, 9, 10, 11 };
+            //var p3 = new List<int>() { 5, 15, 20, 25 };
+            //var p4 = new ArrayList() { 12, 13, 14, 15 };
 
 
 
             var arr = new DataStructures
                 .Arrays
-                .Array<int>(p1);
+                .Array<int>(1, 2, 3, 4);
+
+            for (int i = 0; i < 8; i++)
+            {
+                arr.Add(i + 1);
+                Console.WriteLine($"{i + 1} has been added to array");
+                Console.WriteLine($"{arr.Count}/{arr.Capacity}");
+            }
+
+            for (int i = arr.Count - 1; i >= 1; i--)
+            {
+                Console.WriteLine($"{arr.Remove()} has been removed from the array.");
+                Console.WriteLine($"{arr.Count}/{arr.Capacity}");
+            }
+
 
             foreach (int i in arr)
             {
