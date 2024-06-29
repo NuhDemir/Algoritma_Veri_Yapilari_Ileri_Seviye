@@ -38,9 +38,19 @@ namespace Apps
             arr.Add(22);
             arr.Add(321);
             arr.Add(43);
+
             arr.Add(1);
             arr.Remove();
-            Console.WriteLine($"{arr.Count} / {arr.Capacity}");
+            foreach (var item in arr)
+            {
+                Console.WriteLine(item);
+            }
+            arr.Where(x=>x%2==0)
+              .ToList()
+              .ForEach(x => Console.WriteLine(x));
+
+
+              Console.WriteLine($"{arr.Count} / {arr.Capacity}");
             Console.ReadKey();
         }
     }

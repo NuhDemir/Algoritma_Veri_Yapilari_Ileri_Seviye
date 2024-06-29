@@ -45,11 +45,30 @@ namespace DataStructures.Arrays
         {
             if (Count == 0)
                 throw new Exception("There is no more item to be removed from the array.");
+            if (InnerList.Length / 4 == Count)
+            {
+                HalfArray();
+            }
+
             var temp = InnerList[Count - 1];
+            if (Count>0)
             Count--;
             return temp;
 
 
+
+
+        }
+
+        private void HalfArray()
+        {
+            if (InnerList.Length > 2)
+            {
+                var temp = new T[InnerList.Length / 2];
+                System.Array.Copy(InnerList, temp, temp.Length);
+                //System.Array.Copy(InnerList, temp, InnerList.Length / 4);
+                InnerList = temp;
+            }
         }
 
         public object Clone()
@@ -59,12 +78,12 @@ namespace DataStructures.Arrays
 
         public IEnumerator<T> GetEnumerator()
         {
-            throw new NotImplementedException();
+            return InnerList.Take(Count).GetEnumerator();
         }
 
         IEnumerator IEnumerable.GetEnumerator()
         {
-            throw new NotImplementedException();
+          return GetEnumerator();
         }
     }
 }
