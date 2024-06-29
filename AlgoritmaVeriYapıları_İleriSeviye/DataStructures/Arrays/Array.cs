@@ -96,7 +96,8 @@ namespace DataStructures.Arrays
 
         public object Clone()
         {
-            throw new NotImplementedException();
+            //Bu ifade mevcut örneğin kopyasını döndürür.
+           return this.MemberwiseClone();
         }
 
         public IEnumerator<T> GetEnumerator()

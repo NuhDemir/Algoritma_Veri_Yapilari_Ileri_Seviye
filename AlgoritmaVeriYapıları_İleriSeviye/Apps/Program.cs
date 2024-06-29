@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Net.WebSockets;
 
 namespace Apps
 {
@@ -37,31 +38,31 @@ namespace Apps
             //var p3 = new List<int>() { 5, 15, 20, 25 };
             //var p4 = new ArrayList() { 12, 13, 14, 15 };
 
+            //Temel Programlama
+            #region
+            //var arr = new DataStructures
+            //    .Arrays
+            //    .Array<int>(1, 2, 3, 4);
+
+            //for (int i = 0; i < 8; i++)
+            //{
+            //    arr.Add(i + 1);
+            //    Console.WriteLine($"{i + 1} has been added to array");
+            //    Console.WriteLine($"{arr.Count}/{arr.Capacity}");
+            //}
+
+            //for (int i = arr.Count - 1; i >= 1; i--)
+            //{
+            //    Console.WriteLine($"{arr.Remove()} has been removed from the array.");
+            //    Console.WriteLine($"{arr.Count}/{arr.Capacity}");
+            //}
 
 
-            var arr = new DataStructures
-                .Arrays
-                .Array<int>(1, 2, 3, 4);
-
-            for (int i = 0; i < 8; i++)
-            {
-                arr.Add(i + 1);
-                Console.WriteLine($"{i + 1} has been added to array");
-                Console.WriteLine($"{arr.Count}/{arr.Capacity}");
-            }
-
-            for (int i = arr.Count - 1; i >= 1; i--)
-            {
-                Console.WriteLine($"{arr.Remove()} has been removed from the array.");
-                Console.WriteLine($"{arr.Count}/{arr.Capacity}");
-            }
-
-
-            foreach (int i in arr)
-            {
-                Console.WriteLine(i);
-            }
-
+            //foreach (int i in arr)
+            //{
+            //    Console.WriteLine(i);
+            //}
+            #endregion
 
             //Ekleme-Arama-Silme
             #region
@@ -83,7 +84,28 @@ namespace Apps
 
 
             //  Console.WriteLine($"{arr.Count} / {arr.Capacity}");
-            #endregion 
+            #endregion
+
+            var arr = new DataStructures.Arrays.Array<int>(1, 3, 5, 7);
+            var crr = arr.Clone() as DataStructures.Arrays.Array<int>;
+
+            foreach (var item in arr)
+            {
+                Console.Write($"{item,-3}");
+            }
+
+            Console.WriteLine($"{arr.Count}/ {arr.Capacity} ");
+
+
+            Console.WriteLine();
+
+            foreach (var item in crr)
+            {
+                Console.Write($"{item,-3}");
+            }
+
+            
+
             Console.ReadKey();
         }
     }
