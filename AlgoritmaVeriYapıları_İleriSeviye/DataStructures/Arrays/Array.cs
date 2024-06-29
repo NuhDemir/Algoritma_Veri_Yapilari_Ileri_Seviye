@@ -22,8 +22,34 @@ namespace DataStructures.Arrays
         }
         public void Add(T item)
         {
-           InnerList[Count] = item;
+            if (InnerList.Length == Count)
+                DoubleArray();
+            InnerList[Count] = item;
             Count++;
+        }
+
+        private void DoubleArray()
+        {
+            var temp = new T[InnerList.Length * 2];
+            //for (int i = 0; i < InnerList.Length; i++)
+            //{
+            //    temp[i] = InnerList[i];
+            //}
+
+            System.Array.Copy(InnerList, temp, InnerList.Length);
+            InnerList = temp;
+
+        }
+
+        public T Remove()
+        {
+            if (Count == 0)
+                throw new Exception("There is no more item to be removed from the array.");
+            var temp = InnerList[Count - 1];
+            Count--;
+            return temp;
+
+
         }
 
         public object Clone()

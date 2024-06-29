@@ -35,6 +35,11 @@ namespace Apps
             var arr = new DataStructures.Arrays.Array<int>();
             arr.Add(123);
             arr.Add(55);
+            arr.Add(22);
+            arr.Add(321);
+            arr.Add(43);
+            arr.Add(1);
+            arr.Remove();
             Console.WriteLine($"{arr.Count} / {arr.Capacity}");
             Console.ReadKey();
         }
