@@ -1,0 +1,12 @@
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\LinkedList\LinkedListWork\LinkedListWork\bin\Debug\net8.0\LinkedListWork.deps.json
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\LinkedList\LinkedListWork\LinkedListWork\bin\Debug\net8.0\LinkedListWork.dll
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\LinkedList\LinkedListWork\LinkedListWork\bin\Debug\net8.0\LinkedListWork.pdb
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\LinkedList\LinkedListWork\LinkedListWork\obj\Debug\net8.0\LinkedListWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\LinkedList\LinkedListWork\LinkedListWork\obj\Debug\net8.0\LinkedListWork.AssemblyInfoInputs.cache
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\LinkedList\LinkedListWork\LinkedListWork\obj\Debug\net8.0\LinkedListWork.AssemblyInfo.cs
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\LinkedList\LinkedListWork\LinkedListWork\obj\Debug\net8.0\LinkedListWork.csproj.CoreCompileInputs.cache
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\LinkedList\LinkedListWork\LinkedListWork\obj\Debug\net8.0\LinkedListWork.sourcelink.json
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\LinkedList\LinkedListWork\LinkedListWork\obj\Debug\net8.0\LinkedListWork.dll
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\LinkedList\LinkedListWork\LinkedListWork\obj\Debug\net8.0\refint\LinkedListWork.dll
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\LinkedList\LinkedListWork\LinkedListWork\obj\Debug\net8.0\LinkedListWork.pdb
+C:\Users\EvAn\Desktop\Github\5-C#\Algoritma_Veri_Yapilari_Ileri_Seviye\LinkedList\LinkedListWork\LinkedListWork\obj\Debug\net8.0\ref\LinkedListWork.dll
