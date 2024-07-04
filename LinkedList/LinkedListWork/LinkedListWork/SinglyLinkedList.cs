@@ -1,8 +1,9 @@
 ﻿using System;
+using System.Collections;
 
 namespace LinkedListWork
 {
-    public class SinglyLinkedList<T>
+    public class SinglyLinkedList<T> : IEnumerable<T>
     {
         public SimpleLinkedListNode<T> Head { get; set; }
         public bool isHeadNull => Head == null;
@@ -114,6 +115,19 @@ namespace LinkedListWork
             newNode.Next = current.Next;
             current.Next = newNode;
         }
-    }
 
+
+        //Obje ifadeleri
+        public IEnumerator<T> GetEnumerator()
+        {
+         return new SimpleLinkedListEnumerator<T>(Head);
+        }
+
+        //Generic ifadeler
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
+        }
+
+    }
 }

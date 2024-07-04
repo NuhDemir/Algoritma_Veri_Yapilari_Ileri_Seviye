@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{2AA7C362-846C-437D-9155-B9C13C61426C}|LinkedListWork\\LinkedListWork.csproj|solutionrelative:linkedlistwork\\singlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AA7C362-846C-437D-9155-B9C13C61426C}|LinkedListWork\\LinkedListWork.csproj|c:\\users\\evan\\desktop\\github\\5-c#\\algoritma_veri_yapilari_ileri_seviye\\linkedlist\\linkedlistwork\\linkedlistwork\\linkedlistwork.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2AA7C362-846C-437D-9155-B9C13C61426C}|LinkedListWork\\LinkedListWork.csproj|solutionrelative:linkedlistwork\\linkedlistwork.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2AA7C362-846C-437D-9155-B9C13C61426C}|LinkedListWork\\LinkedListWork.csproj|c:\\users\\evan\\desktop\\github\\5-c#\\algoritma_veri_yapilari_ileri_seviye\\linkedlist\\linkedlistwork\\linkedlistwork\\simplelinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA7C362-846C-437D-9155-B9C13C61426C}|LinkedListWork\\LinkedListWork.csproj|solutionrelative:linkedlistwork\\simplelinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AA7C362-846C-437D-9155-B9C13C61426C}|LinkedListWork\\LinkedListWork.csproj|c:\\users\\evan\\desktop\\github\\5-c#\\algoritma_veri_yapilari_ileri_seviye\\linkedlist\\linkedlistwork\\linkedlistwork\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AA7C362-846C-437D-9155-B9C13C61426C}|LinkedListWork\\LinkedListWork.csproj|solutionrelative:linkedlistwork\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AA7C362-846C-437D-9155-B9C13C61426C}|LinkedListWork\\LinkedListWork.csproj|c:\\users\\evan\\desktop\\github\\5-c#\\algoritma_veri_yapilari_ileri_seviye\\linkedlist\\linkedlistwork\\linkedlistwork\\simplelinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AA7C362-846C-437D-9155-B9C13C61426C}|LinkedListWork\\LinkedListWork.csproj|solutionrelative:linkedlistwork\\simplelinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AA7C362-846C-437D-9155-B9C13C61426C}|LinkedListWork\\LinkedListWork.csproj|c:\\users\\evan\\desktop\\github\\5-c#\\algoritma_veri_yapilari_ileri_seviye\\linkedlist\\linkedlistwork\\linkedlistwork\\simplelinkedlistenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA7C362-846C-437D-9155-B9C13C61426C}|LinkedListWork\\LinkedListWork.csproj|solutionrelative:linkedlistwork\\simplelinkedlistenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA7C362-846C-437D-9155-B9C13C61426C}|LinkedListWork\\LinkedListWork.csproj|c:\\users\\evan\\desktop\\github\\5-c#\\algoritma_veri_yapilari_ileri_seviye\\linkedlist\\linkedlistwork\\linkedlistwork\\linkedlistwork.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AA7C362-846C-437D-9155-B9C13C61426C}|LinkedListWork\\LinkedListWork.csproj|solutionrelative:linkedlistwork\\linkedlistwork.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "LinkedListWork\\App.cs",
               "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\LinkedList\\LinkedListWork\\LinkedListWork\\App.cs",
               "RelativeToolTip": "LinkedListWork\\App.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T10:54:00.017Z",
               "IsPinned": true,
@@ -45,14 +49,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LinkedListWork",
-              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\LinkedList\\LinkedListWork\\LinkedListWork\\LinkedListWork.csproj",
-              "RelativeDocumentMoniker": "LinkedListWork\\LinkedListWork.csproj",
-              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\LinkedList\\LinkedListWork\\LinkedListWork\\LinkedListWork.csproj",
-              "RelativeToolTip": "LinkedListWork\\LinkedListWork.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-03T11:03:38.36Z",
+              "Title": "SimpleLinkedListNode.cs",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\LinkedList\\LinkedListWork\\LinkedListWork\\SimpleLinkedListNode.cs",
+              "RelativeDocumentMoniker": "LinkedListWork\\SimpleLinkedListNode.cs",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\LinkedList\\LinkedListWork\\LinkedListWork\\SimpleLinkedListNode.cs",
+              "RelativeToolTip": "LinkedListWork\\SimpleLinkedListNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:26:22.444Z",
               "EditorCaption": ""
             },
             {
@@ -63,7 +67,7 @@
               "RelativeDocumentMoniker": "LinkedListWork\\SinglyLinkedList.cs",
               "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\LinkedList\\LinkedListWork\\LinkedListWork\\SinglyLinkedList.cs",
               "RelativeToolTip": "LinkedListWork\\SinglyLinkedList.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAqwGAAAAAEAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwDAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T10:39:30.63Z",
               "EditorCaption": ""
@@ -71,15 +75,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SimpleLinkedListNode.cs",
-              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\LinkedList\\LinkedListWork\\LinkedListWork\\SimpleLinkedListNode.cs",
-              "RelativeDocumentMoniker": "LinkedListWork\\SimpleLinkedListNode.cs",
-              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\LinkedList\\LinkedListWork\\LinkedListWork\\SimpleLinkedListNode.cs",
-              "RelativeToolTip": "LinkedListWork\\SimpleLinkedListNode.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Title": "SimpleLinkedListEnumerator.cs",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\LinkedList\\LinkedListWork\\LinkedListWork\\SimpleLinkedListEnumerator.cs",
+              "RelativeDocumentMoniker": "LinkedListWork\\SimpleLinkedListEnumerator.cs",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\LinkedList\\LinkedListWork\\LinkedListWork\\SimpleLinkedListEnumerator.cs",
+              "RelativeToolTip": "LinkedListWork\\SimpleLinkedListEnumerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T09:26:22.444Z",
+              "WhenOpened": "2024-07-03T18:24:50.385Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinkedListWork.csproj",
+              "DocumentMoniker": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\LinkedList\\LinkedListWork\\LinkedListWork\\LinkedListWork.csproj",
+              "RelativeDocumentMoniker": "LinkedListWork\\LinkedListWork.csproj",
+              "ToolTip": "C:\\Users\\EvAn\\Desktop\\Github\\5-C#\\Algoritma_Veri_Yapilari_Ileri_Seviye\\LinkedList\\LinkedListWork\\LinkedListWork\\LinkedListWork.csproj",
+              "RelativeToolTip": "LinkedListWork\\LinkedListWork.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T11:03:38.36Z"
             }
           ]
         }
