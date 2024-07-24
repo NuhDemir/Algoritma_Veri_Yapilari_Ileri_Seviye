@@ -69,9 +69,3 @@ Bu markdown dosyası, **Algoritma ve Veri Yapıları** eğitim programının iç
 * Bilgisayar bilimleri, yazılım mühendisliği veya ilgili alanlarda eğitim alan veya çalışan kişiler
 * Algoritmalar ve veri yapılarına giriş yapmak isteyenler
 * Programlama becerilerini geliştirmek isteyenler
-
-**Eğitim Programı Faydaları:**
-
-* Algoritmalar ve veri yapıları hakkında sağlam bir temel oluşturma
-* Kod yazma ve algoritmaların performansını analiz etme bec
-
